@@ -32,9 +32,9 @@ const int trig = 13;
 const int MAX_TRAVEL_DISTANCE = 1300; // in mm. needs to be customized for each rig
 
 //define Microstep pins
-const int MS1 = 5;
-const int MS2 = 6;
-const int MS3 = 7;
+const int MS1 = 49;
+const int MS2 = 51;
+const int MS3 = 53;
 
 //BUTTONS
 //define button values
